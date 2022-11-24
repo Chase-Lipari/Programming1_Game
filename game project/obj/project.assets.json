@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\20201210200246_Game_Project\\Programming\\game project\\game project.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Git\\Programming1_Game\\game project\\game project.csproj",
       "projectName": "game project",
-      "projectPath": "C:\\Users\\User\\Downloads\\20201210200246_Game_Project\\Programming\\game project\\game project.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Git\\Programming1_Game\\game project\\game project.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\20201210200246_Game_Project\\Programming\\game project\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Git\\Programming1_Game\\game project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
